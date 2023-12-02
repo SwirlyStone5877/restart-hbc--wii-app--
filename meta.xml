@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+	<name>Restart HBC</name>
+	<version>1.0</version>
+	<release_date></release_date>
+	<coder>Swirly</coder>
+	<short_description>Restart HBC</short_description>
+	<long_description>An app made just to restart the homebrew channel.
+</long_description>
+</app>
